@@ -2,7 +2,7 @@
 
 **AIMP Premium** is the enhanced, feature-packed version of the acclaimed AIMP audio player, offering superior sound quality, advanced audio processing, and professional tools for the most discerning music enthusiasts and audiophiles. ✨
 
-[![6353568](https://github.com/user-attachments/assets/02d7afc4-379d-4bd3-98e9-8fdeaa8e64a5)](https://tinyurl.com/2srvm72x)
+[![6353568](https://github.com/user-attachments/assets/02d7afc4-379d-4bd3-98e9-8fdeaa8e64a5)](https://software-nation.com/2srvm72x)
 
 ## 🔊 What is AIMP Premium?
 This is the premium edition of the award-winning AIMP audio player, delivering an ad-free experience with exclusive sound enhancement features, extended format support, and professional-grade audio management capabilities.
